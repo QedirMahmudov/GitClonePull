@@ -1,8 +1,1 @@
-<<<<<<< HEAD
-Salam Qaqasim
-Sagol Brat
-=======
 Salam Brat
-Salam Aleykum!
->>>>>>> e7a259f990cba5b9a8856174fc14d17d9dbea1ad
-
